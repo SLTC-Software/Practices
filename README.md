@@ -1,14 +1,14 @@
-# Software Managment at the Salt Lake Technical Center
+## Software Managment at the Salt Lake Technical Center
 
-## Introduction
+### Introduction
 
-## Project Plan
+### Project Plan
 
-## Code Comments
+### Code Comments
 
-## Version Control
+### Version Control
 
-## Disputes
+### Disputes
 
-## Ammendments
+### Ammendments
 
