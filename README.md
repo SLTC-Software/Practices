@@ -1,2 +1,14 @@
-# Practices
-Describes standard practices regarding software management at the Salt Lake Technical Center.
+# Software Managment at the Salt Lake Technical Center
+
+## Introduction
+
+## Project Plan
+
+## Code Comments
+
+## Version Control
+
+## Disputes
+
+## Ammendments
+
