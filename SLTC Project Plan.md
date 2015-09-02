@@ -2,15 +2,19 @@
 
 ## Introduction
 
-This section should contain a very brief description of the problem the project is solving and how it will solve it. Normally this section should be 3 to 5 sentances and aimed at someone who is familiar with the work done at the Salt Lake Technical Center and the Division in which the project is being produced, but not necesseraly with the problem. Links are appropriate. 
+Includes 3 to 5 sentences briefly describing the problem being solved or the value added purpose of the project and how it will be accomplished. Needs to be aimed at someone familiar with the work done at the Salt Lake Technical Center and the Division in which the project is being produced, but may not necessarily be familiar with the problem. Links are appropriate.
+
+## Who
+
+Includes a list of those involved on the project and clearly defined responsiblities.
 
 ## Version 1.0
 
-Each version of the project can have a *brief* introduction. Usually 1-2 sentances. 
+Each version of the project can have a *brief* introduction. Usually 1-2 sentences. 
 
-### Feature List
+### Features/Deliverables
 
-Features are the next part of the following sentance: **This project should**...
+Features/deliverables are the main components of the project and part of the following sentence: **This project addresses**...
 
 | Feature | Priority |Hrs| Comment |
 | :----------------------------------- |:-----|:-----| :-----------------------------------:|
@@ -22,13 +26,16 @@ Features are the next part of the following sentance: **This project should**...
 | Allow for ambiguity of input |may|2.5||
 | Solve world hunger |may|2.5| If you need an extra half hour, that's ok|
 
-Few things to notice:
-* The priorities should always be three, divided about equally by time
+Items to note:
+* Priorities should always be three, divided about equally by time
 * A typical project will have all **must** elements done, together with some **should**
-* The list can be recreated for the next version with completed items removed, most bugs will be a **must**
-* Links are obviously ok, in fact anything that takes a while to explain should be in a wiki, linked to from here
-* **Hrs** is an estimated time, estimated by the developer
+* The list can be recreated for the next version with completed items removed, most bugs will be a noted as a **must**
+* Links may be included.Anything that takes great length to explain should be in a wiki and linked to from the plan.
+* **Hrs** is an estimate of time, estimated by the developer. 
 
 ### Timeline
 
-For a typical project, a version will simply have a deadline that is less than a month away. Projects should be planned so that they do not go longer than a month. Longer projects should be clear about which elements are important first and which will be important later. Then they should be split into multiple versions appropriately. Use wiki to stay organized. 
+For a typical project, a version will simply include a deadline generally no more than 4 weeks away. Projects should be planned so that they do not exceed 4 weeks. Larger/longer projects should be clear about which elements are important to complete first and which will be important to be completed at a later date. Then, they should be split into multiple versions appropriately. Use wiki to stay organized.
+
+Items to note:
+* Enhancements may be noted as some of the items to complete at a later date and may be included as an appendix to the original plan.
