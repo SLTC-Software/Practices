@@ -21,6 +21,10 @@ If the language or IDE support it, make sure you specify what class the function
 
 Remember, comments are not only for you, they are also for the next developer.
 
+## Libraries
+
+Indicate all the libraries used on the project.
+
 ## Convention
 
 Document which convention you used throughout the code in Documentation.md file. Consistent conventions help everyone. Something simple as follows will do, but this is developer and project specific. The only exception is a project with multiple developers, in that case the convention must be written before any code is produced.
