@@ -38,4 +38,4 @@ Items to note:
 For a typical project, a version will simply include a deadline generally no more than 4 weeks away. Projects should be planned so that they do not exceed 4 weeks. Larger/longer projects should be clear about which elements are important to complete first and which will be important to be completed at a later date. Then, they should be split into multiple versions appropriately. Use wiki to stay organized.
 
 Items to note:
-* Enhancements may be noted as some of the items to complete at a later date and may be included as an appendix to the original plan.
+* Enhancements may be noted as some of the items to complete at a later date and may be included as a wiki link from the original plan.
