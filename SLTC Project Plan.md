@@ -6,7 +6,7 @@ Includes 3 to 5 sentences briefly describing the problem being solved or the val
 
 ## Who
 
-Includes a list of those involved on the project and clearly defined responsiblities.
+Includes a list of those involved on the project and clearly defined responsibilities.
 
 ## Version 1.0
 
